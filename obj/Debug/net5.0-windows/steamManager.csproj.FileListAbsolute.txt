@@ -1,0 +1,19 @@
+C:\Users\Vivian\source\repos\steamManager\steamManager\obj\Debug\net5.0-windows\steamManager.csproj.AssemblyReference.cache
+C:\Users\Vivian\source\repos\steamManager\steamManager\obj\Debug\net5.0-windows\steamManager.Form1.resources
+C:\Users\Vivian\source\repos\steamManager\steamManager\obj\Debug\net5.0-windows\steamManager.csproj.GenerateResource.cache
+C:\Users\Vivian\source\repos\steamManager\steamManager\obj\Debug\net5.0-windows\steamManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vivian\source\repos\steamManager\steamManager\obj\Debug\net5.0-windows\steamManager.AssemblyInfoInputs.cache
+C:\Users\Vivian\source\repos\steamManager\steamManager\obj\Debug\net5.0-windows\steamManager.AssemblyInfo.cs
+C:\Users\Vivian\source\repos\steamManager\steamManager\obj\Debug\net5.0-windows\steamManager.csproj.CoreCompileInputs.cache
+C:\Users\Vivian\source\repos\steamManager\steamManager\obj\Debug\net5.0-windows\steamManager.genruntimeconfig.cache
+C:\Users\Vivian\source\repos\steamManager\steamManager\obj\Debug\net5.0-windows\steamManager.Properties.Resources.resources
+C:\Users\Vivian\source\repos\steamManager\steamManager\bin\Debug\net5.0-windows\Steam Account Manager.exe
+C:\Users\Vivian\source\repos\steamManager\steamManager\bin\Debug\net5.0-windows\Steam Account Manager.deps.json
+C:\Users\Vivian\source\repos\steamManager\steamManager\bin\Debug\net5.0-windows\Steam Account Manager.runtimeconfig.json
+C:\Users\Vivian\source\repos\steamManager\steamManager\bin\Debug\net5.0-windows\Steam Account Manager.runtimeconfig.dev.json
+C:\Users\Vivian\source\repos\steamManager\steamManager\bin\Debug\net5.0-windows\Steam Account Manager.dll
+C:\Users\Vivian\source\repos\steamManager\steamManager\bin\Debug\net5.0-windows\ref\Steam Account Manager.dll
+C:\Users\Vivian\source\repos\steamManager\steamManager\bin\Debug\net5.0-windows\Steam Account Manager.pdb
+C:\Users\Vivian\source\repos\steamManager\steamManager\obj\Debug\net5.0-windows\Steam Account Manager.dll
+C:\Users\Vivian\source\repos\steamManager\steamManager\obj\Debug\net5.0-windows\ref\Steam Account Manager.dll
+C:\Users\Vivian\source\repos\steamManager\steamManager\obj\Debug\net5.0-windows\Steam Account Manager.pdb

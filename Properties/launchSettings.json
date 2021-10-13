@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "steamManager": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
