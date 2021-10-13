@@ -3,7 +3,9 @@ Vous possédez plusieurs comptes Steam ? Voici la solution :
 
 ![Screenshot](image.png) 
 
-Vous avez un disque D et vous voulez tester le logiciel ? [Download Setup.exe](https://github.com/Vivitougnou/steam-manager/blob/main/Steam%20Account%20Manager.exe)
+### Vous avez un disque nommé D et vous voulez tester le logiciel ? [Download Setup.exe](https://github.com/Vivitougnou/steam-manager/blob/main/Steam%20Account%20Manager.exe)
+
+# Divers :
 
 Vous pouvez ajouter directement via le logiciel votre compte qui sera stocké dans un fichier .txt en local sur votre ordinateur à un répértoire choisi.
 
