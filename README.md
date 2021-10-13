@@ -1,3 +1,3 @@
 # steam-manager
 Vous possédez plusieurs compte Steam ? Voici la solution :
-[image.png]
+https://github.com/Vivitougnou/steam-manager/blob/main/image.png?raw=true
